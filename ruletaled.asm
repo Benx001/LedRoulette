@@ -1,6 +1,6 @@
   ;Autor: Benx001
   ;Date: 28/11/2020
-  ;Description: Led roulette with six leds
+  ;Description: pic 10f200 - Led roulette with six leds
     
     #include <xc.inc>
   CONFIG  WDTE = OFF
